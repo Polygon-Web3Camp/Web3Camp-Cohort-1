@@ -4,7 +4,7 @@ Workspace Of devloper_hs😎.
 
 Check out all updates at socials: <br>
 👉 My [Twitter 🕊](https://twitter.com/devloper_hs) <br>
-👉 My [Youtube 🎬](https://www.youtube.com/channel/UCm-CN-m-Io_mFg2iNnF__QQ) <br>
+👉 My [Youtube 🎬](https://www.youtube.com/channel/UCi7t-Zsh1-rhWxAlBilVfcQ) <br>
 👉 My [Author Page 📝](https://www.analyticsvidhya.com/blog/author/harsh1092/)
 
 <hr>
