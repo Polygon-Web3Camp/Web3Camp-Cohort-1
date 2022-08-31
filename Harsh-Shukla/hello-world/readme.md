@@ -5,7 +5,7 @@
 1. contracts/`HelloWorld.sol`: The Smart Contract (Logic)<br>
 2. scripts/`deploy.js`: The Javascript code for interacting with blockchain<br>
 3. `hardhat.config.js`: The configuration file for deploying contract locally<br>
-4. `.env`: Enviroment Variables file<br>
+4. `.env`: Enviroment Variables file (value needs to be passed)<br>
 <hr>
 
 <h2>Instructions To Run</h2>
